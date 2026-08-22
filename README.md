@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Puru! 👋
 
-<!--
-**puruasthana20/puruasthana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and software developer passionate about building intelligent systems and scalable web applications. I enjoy blending traditional software engineering with modern AI frameworks to solve complex real-world problems.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+*   **Languages:** Python, JavaScript/TypeScript
+*   **Frontend & Backend:** React, FastAPI
+*   **AI & Machine Learning:** TensorFlow, LangChain, LangGraph, NLP, Unsupervised Learning
+*   **Core Focus:** AI Agents, Retrieval-Augmented Generation (RAG), and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Highlighted Projects
+*   **CodeNova:** A comprehensive web-based code editor and compiler, engineered with a React frontend and a FastAPI backend.
+*   **Healthcare Automation Agent:** A prior authorization automation system for healthcare, built utilizing LangGraph and RAG architecture.
+*   **RoadSentinel Edge AI:** A real-time vehicle analytics and monitoring system.
+*   **Academic Research:** Conducted research and authored a paper on EEG analysis. 
+
+### ⚡ Beyond the Screen
+*   **Extracurriculars:** I'm an active dancer and help lead the DTOX crew on campus. 🕺
+*   **Downtime:** I love exploring historical cities and finding a quiet spot by the ocean to read a good book. 🌊🏛️
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [(https://www.linkedin.com/in/puru-asthana/)]
+*   **Email:** [puru.asthana20@gmail.com]
