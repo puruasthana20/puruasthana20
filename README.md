@@ -72,31 +72,31 @@ const puru = {
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,vite" alt="Frontend" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Backend" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" alt="Database" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" alt="DevOps & Tools" />
 </p>
 
 ---
@@ -105,11 +105,9 @@ const puru = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puruasthana20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puruasthana20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/puruasthana20)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puruasthana20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puruasthana20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puruasthana20&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/puruasthana20)
 
 </div>
 
@@ -119,17 +117,17 @@ const puru = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=puruasthana20&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=puruasthana20&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/puruasthana20)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puruasthana20&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puruasthana20&theme=tokyonight&hide_border=true)](https://github.com/puruasthana20)
 
 </div>
 
@@ -162,7 +160,6 @@ const puru = {
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-
 </p>
 
 ---
@@ -171,17 +168,17 @@ const puru = {
 
 ## 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)](https://open.spotify.com/user/312khq56qInidk5js407vrj4kywu)
+[🎶 Listen on Spotify](https://open.spotify.com/user/312khq56qInidk5js407vrj4kywu)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:42a5f5&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:42a5f5&height=150&section=footer" alt="Footer"/>
 
 ### ⭐ Thanks for visiting my profile!
 
