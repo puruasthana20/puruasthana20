@@ -4,12 +4,12 @@
 
 ### 🚀 Full Stack Developer • AI Enthusiast • Open Source Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Building+Cool+Things+%F0%9F%9A%80;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Cool+Things+%F0%9F%9A%80;Full+Stack+Developer;Open+Source+Explorer" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=puruasthana20&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/puruasthana20?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/puruasthana20?style=for-the-badge&logo=github" />
 </p>
 
 </div>
@@ -23,11 +23,10 @@ const puru = {
     location: "India 🇮🇳",
     
     code: [
-        "C++"
+        "C++",
         "Python",
-           "SQL",
-        "Java",
-        
+        "SQL",
+        "Java"
     ],
     technologies: {
         frontend: [
@@ -106,11 +105,11 @@ const puru = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puruasthana20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puruasthana20&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puruasthana20&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -174,7 +173,7 @@ const puru = {
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)
 
 ---
 
