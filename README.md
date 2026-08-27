@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer • AI Enthusiast • Open Source Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Cool+Things+%F0%9F%9A%80;Full+Stack+Developer;Open+Source+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Cool+Things+%F0%9F%9A%80;Full+Stack+Developer;AI+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=puruasthana20&style=for-the-badge&color=blueviolet" />
@@ -105,11 +105,11 @@ const puru = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puruasthana20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puruasthana20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puruasthana20&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puruasthana20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puruasthana20&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puruasthana20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -119,7 +119,7 @@ const puru = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=puruasthana20&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=puruasthana20&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -127,7 +127,11 @@ const puru = {
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puruasthana20&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puruasthana20&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -173,7 +177,7 @@ const puru = {
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=312khq56qInidk5js407vrj4kywu&cover_image=true&theme=novatorem)](https://open.spotify.com/user/312khq56qInidk5js407vrj4kywu)
 
 ---
 
