@@ -133,16 +133,7 @@ const puru = {
 
 ---
 
-# 🌟 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 Project One | Awesome project description | React • Node.js |
-| 🤖 AI Project | AI powered application | Python • OpenAI |
-| 🌐 Full Stack App | Modern web application | Next.js • MongoDB |
-| 📱 Mobile App | Cross-platform app | Flutter |
-
----
 
 # 🌍 Connect With Me
 
